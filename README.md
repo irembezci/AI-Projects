@@ -4,8 +4,8 @@ A curated collection of my AI applications and practical projects.
 
 > **Looking for my other work?**
 >
-> - **AI Security:** [AI Security](https://github.com/irembezci/AI-security)
-> - **Computer Vision:** [Computer Vision Projects](https://github.com/irembezci/ComputerVisionProjects)
+> - **[AI Security](https://github.com/irembezci/AI-security)**
+> - **[Computer Vision Projects](https://github.com/irembezci/ComputerVisionProjects)**
 
 ## Projects
 
